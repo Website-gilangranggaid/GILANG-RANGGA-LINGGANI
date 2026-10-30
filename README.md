@@ -12,6 +12,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Gilang%20Rangga%20Linggani&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Junior%20Web%20Developer%20%7C%20Frontend%20Enthusiast%20%7C%20Builder&descAlignY=60&descSize=18" width="100%" alt="header" />
 
+<br/>
+
+<img src="assets/profile.png" width="180" alt="Gilang Rangga Linggani" />
+
+<br/>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Gilang+%F0%9F%91%8B;Web+Developer+from+Karawang%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;React+%7C+Tailwind+CSS+%7C+JavaScript;Turning+ideas+into+clean%2C+beautiful+interfaces;Let's+build+something+awesome+together+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
