@@ -46,7 +46,7 @@
 <a href="mailto:ranggalinggani@gmail.com">
   <img src="https://img.shields.io/badge/Email-Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://portfolio-gilangrangga.vercel.app/">
+<a href="https://portfoliogilangid.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
@@ -267,14 +267,14 @@ Guided by the principle **"With great power comes great responsibility"**, I des
 <br/><br/>
 <b>Certificate of Competence (BNSP)</b><br/>
 <sub>Badan Nasional Sertifikasi Profesi · LSP SMK Texmaco Semarang</sub><br/>
-<sub>KKNI Level II · Machine Design &amp; Drawing Engineering · 24 May 2021</sub><br/><br/>
+<sub>KKNI Level II · Machine Design & Drawing Engineering · 24 May 2021</sub><br/><br/>
 <a href="assets/certificates/bnsp-competence.jpg"><img src="https://img.shields.io/badge/View-Certificate-0ea5e9?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View" /></a>
 </td>
 <td align="center" width="50%" valign="top">
 <a href="assets/certificates/japanese-n5.jpg"><img src="assets/certificates/japanese-n5-thumb.jpg" width="380" alt="Basic Japanese Language Education (N5)" /></a>
 <br/><br/>
 <b>Basic Japanese Language Education (N5)</b><br/>
-<sub>UPTD Balai Latihan Kerja Disnakertrans Karawang &amp; LPK Galuh Berkarya</sub><br/>
+<sub>UPTD Balai Latihan Kerja Disnakertrans Karawang & LPK Galuh Berkarya</sub><br/>
 <sub>Final score: 95</sub><br/><br/>
 <a href="assets/certificates/japanese-n5.jpg"><img src="https://img.shields.io/badge/View-Certificate-0ea5e9?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View" /></a>
 </td>
@@ -361,7 +361,7 @@ I'm open to **junior web developer / frontend roles, freelance projects, interns
 <a href="mailto:ranggalinggani@gmail.com">
   <img src="https://img.shields.io/badge/📧%20Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://portfolio-gilangrangga.vercel.app/">
+<a href="https://portfoliogilangid.vercel.app/">
   <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://github.com/GILANG-RANGGA-LINGGANI/GILANG-RANGGA-LINGGANI/raw/main/CV.pdf">
@@ -393,7 +393,6 @@ I'm open to **junior web developer / frontend roles, freelance projects, interns
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
-
 
 <div align="center">
 
