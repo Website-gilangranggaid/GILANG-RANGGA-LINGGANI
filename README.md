@@ -19,7 +19,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Gilang+%F0%9F%91%8B;Web+Developer+from+Karawang%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;React+%7C+Tailwind+CSS+%7C+JavaScript;Turning+ideas+into+clean%2C+beautiful+interfaces;Let's+build+something+awesome+together+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Gilang+%F0%9F%91%8B;Web+Developer+from+Karawang%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;React+%7C+Tailwind+CSS+%7C+JavaScript;Turning+ideas+into+clean%2C+beautiful%20interfaces;Let's+build+something+awesome+together+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
